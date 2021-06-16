@@ -1,0 +1,19 @@
+*{box-sizing: border-box;}
+@font-face {
+  font-family: Courier;
+  src: url(./assets/Courier.dfont);
+}
+
+img {
+width: 100%;
+}
+
+body{
+  background-color: black;
+  color: gray;
+  font-family: Clairvaux;
+  font-size: 20px;
+  height: 100%;
+  overflow: hidden;
+
+}
