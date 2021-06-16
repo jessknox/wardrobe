@@ -17,3 +17,17 @@ body{
   overflow: hidden;
 
 }
+
+
+.home-button{
+  width: 100px;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  /* outline-color: red;
+  outline-style: solid; */
+}
+
+.home-button:hover{
+  filter: drop-shadow(0 0 30px #60bf2c);
+}
